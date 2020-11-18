@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<element>
+		<variable1>15</variable1>
+		<variable2>2</variable2>
+	</element>
+	<element>
+		<variable1>4</variable1>
+		<variable2>4</variable2>
+	</element>
+</root>
